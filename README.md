@@ -74,4 +74,4 @@ endmodule
 ### TRUTH TABLE 
 
 ### Result:
-THUS,THE Half adder and Full adder are verified.
+Thus,The Half adder and Full adder are verified.
